@@ -22,9 +22,9 @@ const App = () => {
         </h2>
         <p className="para1">
           
-            steve job was one of the most respected enterpreneus <br />
-            and inventors of his time . In 1976 he founded Apple <br />
-            together with his friend.  They  created their first <br />
+            steve job was one of the most respected enterpreneus 
+            and inventors of his time . In 1976 he founded Apple 
+            together with his friend.  They  created their first 
             computer . the Apple I. in  the garage of job's parents
          
         </p>

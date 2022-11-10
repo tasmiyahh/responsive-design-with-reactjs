@@ -21,12 +21,12 @@ const App = () => {
           </pre>
         </h2>
         <p className="para1">
-          <pre>
+          
             steve job was one of the most respected enterpreneus <br />
             and inventors of his time . In 1976 he founded Apple <br />
             together with his friend.  They  created their first <br />
             computer . the Apple I. in  the garage of job's parents
-          </pre>
+         
         </p>
         <p>
        <span className="icon"><FontAwesomeIcon icon={faAppleWhole} size="50px" /></span> 
